@@ -1,0 +1,38 @@
+_repo: The-Tempering_33736
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Coleman, Ralph P. (Ralph Pallen)
+    alias: Coleman, Ralph Pallen
+    birthdate: 1892
+    deathdate: 1968
+    gutenberg_agent_id: '6922'
+    url: http://www.gutenberg.org/2009/agents/6922
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Buck, Charles Neville
+    birthdate: 1879
+    deathdate: 1930
+    gutenberg_agent_id: '2520'
+    url: http://www.gutenberg.org/2009/agents/2520
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/l#a36873
+    - http://www.english.eku.edu/services/kylit/buck.htm
+description: ''
+gutenberg_issued: '2010-09-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33736'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kentucky -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Mountain life -- Fiction'
+title: The Tempering
+url: http://www.gutenberg.org/ebooks/33736
